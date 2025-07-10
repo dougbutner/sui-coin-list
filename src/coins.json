@@ -266,5 +266,15 @@
         "icon_url": "",
         "project_url": "https://suipad.xyz/",
         "source": "native"
+    },
+    {
+        "name": "music.cXc.world",
+        "description": "A music discovery platform where songs compete and rise on a world map.",
+        "symbol": "MUSIC",
+        "coin_type": "0x839e59fae416e39f9b6e839a4f6cfeb6794f1e79b5c2f64e123c7cfdd344960a::music::MUSIC",
+        "decimals": 6,
+        "icon_url": "https://ipfs.io/ipfs/QmRmLTCSiZNVkbm8RXQggkNhyMyGCpb5cfqCCABk3zhgrU",
+        "project_url": "music.cXc.world",
+        "source": "native"
     }
 ]
